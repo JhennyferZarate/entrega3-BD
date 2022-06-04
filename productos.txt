@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Notebook 1",
+    "price": 5258,
+    "thumbnail": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/81Y6003VLM_1.jpg",
+    "id": 1
+  },
+  {
+    "title": "Notebook 2",
+    "price": 3699,
+    "thumbnail": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/16-D0505LA_1.jpg",
+    "id": 2
+  },
+  {
+    "title": "Notebook 3",
+    "price": 4399,
+    "thumbnail": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/16-C0501LA_1.jpg",
+    "id": 3
+  }
+]
+  
