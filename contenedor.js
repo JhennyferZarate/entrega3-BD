@@ -10,7 +10,7 @@ class Contenedor {
     async save(object){
         const list = await this.getAll();
 
-        const newId = list[list.length - 1].id + 1;
+        const newId = list.lenght === 0 ? 1 : list[list.length - 1].id + 1;
 
         const newObject ={...object , id: newId}
         list.push (newObject);
